@@ -1,7 +1,7 @@
 # Diving into the Greek Stock Market
 > A Network Analysis Application
 
-![](communities.png)
+![](communities.PNG)
 
 ##Abstract
 
