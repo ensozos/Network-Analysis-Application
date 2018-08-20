@@ -3,7 +3,7 @@
 
 ![](communities.PNG)
 
-##Abstract
+## Abstract
 
 Social network analysis has become increasingly popular over the past few years. With the emergence of big data, modelling a real-world phenomenon as a network has never been more compelling. The findings of this paper act as supporting evidence to the claim that social network analysis is capable of providing with insights into underlying trends as well as forecasting future behavior within the network. 
 
